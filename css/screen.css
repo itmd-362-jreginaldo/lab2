@@ -6,7 +6,7 @@ html, body {
 
 body {
     font-family: Georgia, Verdana, sans-serif;
-    background-image: url(/assets/images/bg.jpg);
+    background-image: url(https://itmd-362-jreginaldo.github.io/lab2/assets/images/bg.jpg);
     display: flex;
 }
 
