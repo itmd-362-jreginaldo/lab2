@@ -13,9 +13,24 @@ body {
     display: flex;
 }
 
+div {
+    text-align: center; /* Align form elements to the center */
+}
+
 form {
     background-color: white;
     margin: auto;
+}
+
+button {
+    background-color: #04AA6D;
+    border: none;
+    color: white; /* Text color */
+    text-decoration: none;
+    margin: 4px 2px;
+    height: 50px;
+    width: 100px;
+    cursor: pointer;
 }
 
 @media screen
