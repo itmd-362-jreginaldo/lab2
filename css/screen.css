@@ -13,13 +13,18 @@ body {
     display: flex;
 }
 
-div {
+p, div {
     text-align: center; /* Align form elements to the center */
+    margin: 15px;
 }
 
 form {
     background-color: white;
     margin: auto;
+}
+
+input[type=text] {
+    padding: 12px 18px;
 }
 
 button {
@@ -28,8 +33,8 @@ button {
     color: white; /* Text color */
     text-decoration: none;
     margin: 4px 2px;
-    height: 50px;
-    width: 100px;
+    height: 40px;
+    width: 240px;
     cursor: pointer;
 }
 
